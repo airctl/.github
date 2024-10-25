@@ -9,7 +9,7 @@ Right now we are working on an AI-relevant expansion for Backdoors & Breaches, t
 
 We think this includes:
 
-- AI RPG with online emulator, to simulate realistic Artificial Intelligence Incidents and their response at any location without requiring external faciliation
+- AI RPG with online emulator, to simulate realistic Artificial Intelligence Incidents and their response at any location without requiring external faciliation. Try it now: https://airctl.github.io/
 - AI Incident Captain Play Guides, to help incident teams understand how to develop awareness of their organization's Incident Management readiness for AI Incidents
 - AI Incident Quick-Play Scenarios, to allow Incident teams with no AI experience to upskill their novice incident personnel through knowledge transfer and collaborative thinking on the highest-value AI Incident topics (community-contributed based on evidenced, validated priorities).
 
