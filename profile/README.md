@@ -13,7 +13,7 @@ We think this includes:
 - AI Incident Captain Play Guides, to help incident teams understand how to develop awareness of their organization's Incident Management readiness for AI Incidents
 - AI Incident Quick-Play Scenarios, to allow Incident teams with no AI experience to upskill their novice incident personnel through knowledge transfer and collaborative thinking on the highest-value AI Incident topics (community-contributed based on evidenced, validated priorities).
 
-We are open to suggestions on anything else we should do next.
+We are open to suggestions on anything else we should do next. Comment Box --> https://forms.gle/bXAJ18qV5HA8jQDi9
 
 ### Why this matters
 Despite the enormous effort in so many ways and channels to advance security of AI by characterizing the challenges of AI, we know that readiness is critical to the ability of anyone to address risks once realized.
