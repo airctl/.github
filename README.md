@@ -1,5 +1,8 @@
 # AIRCTL Project: AI Incident Response & Controls
 
+# Follow Us
+- LinkedIn (currently private): https://www.linkedin.com/groups/14517393/
+
 # AIRCTL x Backdoors & Breaches
 
 ## Playtesting
