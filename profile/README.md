@@ -1,23 +1,17 @@
 # AIRCTL Project
 
-We are AIRCTL -- a collaborative and open project for **A**rtificial **I**ntelligence **R**esponse & **C**on**T**ro**L**. 
+We are AIRCTL -- a collaborative and open project for **A**rtificial **I**ntelligence **R**esponse & **C**on**T**ro**L**. AIRCTL leverages community collaborative effort to provide resources for Incident Management professionals to run Game Days and test their skills at responding to realistic incidents.
 
-
-AIRCTL - AI Incident Response Control CenterAIRCTL - AI Incident Response Control Center
-Jul 2024 - PresentJul 2024 - Present
-
-        AIRCTL provides resources for Incident Management professionals to run Game Days and test their skills at responding to realistic Artificial Intelligence incidents.
-
-        We aim to provide resources for Incident Management teams to run simulated incidents for their own organization, learn how to improve their own readiness, and gain skills even if there's no AI-capable members of the Incident team:
-
-        - AI RPG with online emulator, to simulate realistic Artificial Intelligence Incidents and their response at any location without requiring external faciliation
-        - AI Incident Captain Play Guides, to help incident teams understand how to develop awareness of their organization's Incident Management readiness for AI Incidents
-        - AI Incident Quick-Plays, to allow Incident teams with no AI experience to upskill their novice incident personnel through knowledge transfer and collaborative thinking on the highest-value AI Incident topics (community-contributed based on evidenced, validated priorities).
-
-        AIRCTL is Open Source development project that leverages community collaborative effort. We are currently extending the popular Backdoors & Breaches Incident Response Tabletop game to include AI Incidents.
+We aim to provide resources for Incident Management teams to run simulated incidents for their own organization, learn how to improve their own readiness, and gain skills even if there's no AI-capable members of the incident handling or security operations team.
 
 ### What we are up to
-Right now pretty much what we're doing is working on an AI-relevant expansion for Backdoors & Breaches, the tabletop RPG by Black Hills Information Security. We are also writing the trainings and materials and engaging the community around this to make sure we get it right. 
+Right now we are working on an AI-relevant expansion for Backdoors & Breaches, the tabletop RPG by Black Hills Information Security. We are also writing the trainings and materials and engaging the community around this to make sure we get it right.
+
+We think this includes:
+
+- AI RPG with online emulator, to simulate realistic Artificial Intelligence Incidents and their response at any location without requiring external faciliation
+- AI Incident Captain Play Guides, to help incident teams understand how to develop awareness of their organization's Incident Management readiness for AI Incidents
+- AI Incident Quick-Play Scenarios, to allow Incident teams with no AI experience to upskill their novice incident personnel through knowledge transfer and collaborative thinking on the highest-value AI Incident topics (community-contributed based on evidenced, validated priorities).
 
 We are open to suggestions on anything else we should do next.
 
