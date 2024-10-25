@@ -2,7 +2,7 @@
 
 We are AIRCTL -- a collaborative and open project for **A**rtificial **I**ntelligence **R**esponse & **C**on**T**ro**L**. AIRCTL leverages community collaborative effort to provide resources for Incident Management professionals to run Game Days and test their skills at responding to realistic incidents.
 
-We aim to provide resources for Incident Management teams to run simulated incidents for their own organization, learn how to improve their own readiness, and gain skills even if there's no AI-capable members of the incident handling or security operations team.
+We provide resources for Incident Management teams to run simulated incidents for their own organization, learn how to improve their own readiness, and gain skills even if there's no AI-capable members of the incident handling or security operations team.
 
 ### What we are up to
 Right now we are working on an AI-relevant expansion for Backdoors & Breaches, the tabletop RPG by Black Hills Information Security. We are also writing the trainings and materials and engaging the community around this to make sure we get it right.
