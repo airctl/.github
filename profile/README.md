@@ -39,6 +39,9 @@ New gameplay for Backdoors & Breaches by Black Hills Information Security focuse
 ## Playtests
 
 ### BSidesPDX - October 2024
+
+Presentation: https://github.com/airctl/airctl-gameplay-resources/blob/main/BSides%202024.pdf
+
 https://bsidespdx.org/events/2024/schedule
 
 *Incident Response for Artificial Intelligence: Playtest New Tabletop Exercises with the AIRCTL Project for fun and stickers*
