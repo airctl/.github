@@ -86,6 +86,7 @@ PR this README.md to be credited by what you like to be called -- feel free to l
 - Stripe
 - Toby
 - Tyler W
+- [Breadgloves](https://github.com/Breadgloves)
 
 ## CTF Completionists (we salute you)
 - C.G. (DEFCON 32 Hallway Tracker)
