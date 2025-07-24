@@ -87,6 +87,7 @@ PR this README.md to be credited by what you like to be called -- feel free to l
 - Toby
 - Tyler W
 - [Breadgloves](https://github.com/Breadgloves)
+- [Luke W](https://github.com/ozskywalker)
 
 ## CTF Completionists (we salute you)
 - C.G. (DEFCON 32 Hallway Tracker)
