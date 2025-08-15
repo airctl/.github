@@ -35,7 +35,9 @@ New gameplay for Backdoors & Breaches by Black Hills Information Security focuse
 ## New scenarios which prepare incident teams to look around corners
 ![IMG_7249](https://github.com/user-attachments/assets/d61b752e-b40b-4138-9d5d-0665064aacdc)
 
-
+## Launch Announcements
+2025-08-15 AIRCTL Project Quick Play Scenarios Guide
+Launch Announcement on LinkedIn: https://www.linkedin.com/posts/eksoward_cbcrsymposium2025-activity-7362166367170564096-AbIw
 ## Playtests
 
 ### BSidesPDX - October 2024
