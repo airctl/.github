@@ -75,6 +75,9 @@ Alphabetical by first name / handle.
 - Emily Soward
 - Jonathan Reiter
 
+## Maintainers 
+- Sam Zeigler
+
 ## Playtesters
 PR this README.md to be credited by what you like to be called -- feel free to link to your GitHub/LinkedIn if you'd like to. 
 
@@ -96,5 +99,8 @@ PR this README.md to be credited by what you like to be called -- feel free to l
 ## Special Thanks / Shout Outs
 - HACKBOAT PDX 2024 Crew
 - Portland BSides
-
+- Oregon Cybersecurity Center of Excellence
+- SeaGL - the Seattle GNU/Linux Conference
+- FOSSY
+- Black Hills Information Security
 
